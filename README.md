@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @farisOudah
-- 👀 I’m interested in Ai & Website & designing
-- 🌱 I’m currently learning Making Apps
-- 💞️ I’m looking to collaborate on Ai
-- 📫 How to reach me : Discord: farisalbalawi_84474 
+Hello I'm Faris Oudah
 
 
 <!---
