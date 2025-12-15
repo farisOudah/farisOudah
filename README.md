@@ -1,4 +1,4 @@
-Faris Oudah | Linux & Server Developer
+# Faris Oudah | Linux & Server Developer
 
 🐧 **FarisOS Developer** - Building modern, Beginner-friendly, server-focused Linux distributions
 
