@@ -1,26 +1,35 @@
-👨‍💻 **Faris Oudah** | Free Time Developer
-✨ Passionate about clean code, scalable architecture & user experience
+Faris Oudah | Linux & Server Developer
 
-🚀 **Tech Stack:**
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,nextjs,py,django,mongodb,postgres,aws,docker,git,figma&theme=light&perline=7)](https://skillicons.dev)
+🐧 **FarisOS Developer** - Building modern, Beginner-friendly, server-focused Linux distributions
 
-📊 **GitHub Activity:**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=farisoudah&show_icons=true&theme=radical&hide_title=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farisoudah&layout=compact&theme=radical)
-![Streak Stats](https://streak-stats.demolab.com/?user=farisoudah&theme=radical)
+---
 
-💼 **Currently:**
-• Available for freelance projects
-• Building [Your Current Project]
-• Contributing to open-source
+### 🛠️ **Core Technologies**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-🌱 **Learning:** [Current Learning Focus - e.g., "Machine Learning", "Cloud Architecture"]
-🎯 **2025 Goal:** [Your Goal - e.g., "Launch 3 SaaS products", "Grow open-source contributions"]
+---
+### 📡 **Current Projects**
+- **🚀 FarisOS** - Beginner-friendly Linux distribution with simplified interface (In Progress )
+- **🚀 FarisOS Server** - Optimized Linux distribution for production servers (In Progress )
+- **🔧 Server Rental Platform** - Rent pre-configured servers with automation tools (Long-term Project )
+- **🌐 Web Control Panel** - Web-based management interface for FarisOS Server (Long-term Project )
 
-📫 **Let's Connect:**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/farisoudah)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter)](https://twitter.com/farisoudah)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=flat&logo=github)](https://farisoudah.github.io)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:hello@farisoudah.com)
 
-⚡ **Fun Fact:** [Add something personal - e.g., "I code while listening to jazz", "Built my first website at 14"]
+---
+
+### 📊 **GitHub Activity**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=farisoudah&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farisoudah&layout=compact&theme=radical&hide_border=true&exclude_repo=github-readme-stats)
+
+---
+
+### 📫 **Connect & Collaborate**
+[![Email](https://img.shields.io/badge/Email-farisalbalawi91@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:farisalbalawi91@gmail.com)
+
+
+---
+
