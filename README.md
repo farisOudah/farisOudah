@@ -28,9 +28,9 @@
 
 ## 📡 Current Projects
 
-**🚀 FarisOS** - Beginner-friendly Linux distribution with simplified interface *(In Progress)*
+**🚀 FarisOS** - Beginner-friendly Linux distro with simplified interface *(In Progress)*
 
-**🚀 FarisOS Server** - Optimized Linux distribution for production servers *(In Progress)*
+**🚀 FarisOS for Servers** - Optimized Linux distribution for production servers *(In Progress)*
 
 **🔧 Server Rental Platform** - Rent pre-configured servers with automation tools *(Long-term Project)*
 
